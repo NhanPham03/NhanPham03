@@ -6,17 +6,20 @@
     🔰 I aspire to become a 🌐 Full-stack Web Developer, 📱 Android Developer and 🎮 Game Developer!
 </p>
 
-<p align='center'>
+<div>
     <p align='center'>💻 Things I know I'm good at using</p><br>
     <div align='center'>
         <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
     </div>
-</p><br>
+</div>
 
-<p align='center'>
-    📫 How to reach me: <a href='mailto:ph.nhan03@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' style='vertical-align: middle;' /></a>
-</p>
+<div>
+    <p align='center'>📫 How to reach me</p>
+    <a href='mailto:ph.nhan03@gmail.com'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+    </a>
+</div>
 
 <details>
     <summary> 📃 Résume</summary>
