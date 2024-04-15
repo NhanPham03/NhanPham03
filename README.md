@@ -14,7 +14,7 @@
     </div>
 </div>
 
-<div>
+<div align='center'>
     <p align='center'>📫 How to reach me</p>
     <a href='mailto:ph.nhan03@gmail.com'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
