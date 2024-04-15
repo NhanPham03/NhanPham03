@@ -8,14 +8,14 @@
 
 <p align='center'>
     <p align='center'>💻 Things I know I'm good at</p><br><br>
-    <div>
+    <div align='center'>
         <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
     </div>
 </p>
 
 <p align='center'>
-    📫 How to reach me: <a href='mailto:ph.nhan03@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+    📫 How to reach me: <a href='mailto:ph.nhan03@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' style='vertical-align: middle;' /></a>
 </p>
 
 <details>
