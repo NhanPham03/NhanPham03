@@ -1,5 +1,5 @@
 <h1 align='center'>
-    👋 Hi! Welcome to @NhanPham03's profile!
+    👋 Hi! Welcome to <a href='https://github.com/NhanPham03'>@NhanPham03</a>'s profile!
 </h1>
 
 <p align='center'>
