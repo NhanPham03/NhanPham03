@@ -9,21 +9,25 @@
 <div>
     <p align='center'>👀 Check out my portfolio!</p>
     <div align='center'>
-        [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://nhanpham03.github.io/portfolio/)
+        <a href='https://nhanpham03.github.io/portfolio/'>
+            <img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white' />
+        </a>
     </div>
 </div><br>
 
 <div>
     <p align='center'>💻 Things I frequently use to code</p>
     <div align='center'>
-        [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-        [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+        <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
+        <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
     </div>
 </div><br>
 
 <div align='center'>
     <p align='center'>📫 How to reach me</p>
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph.nhan03@gmail.com)
+    <a href='mailto:ph.nhan03@gmail.com'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+    </a>
 </div>
 
 <details>
