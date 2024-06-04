@@ -46,7 +46,7 @@
 📅 2023 - Now\
 📎 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
 
-- 📚 **Web Development**\
+- 📚 **Web Development - Full-stack**\
 📅 2023 - Now\
 📎 **Self-taught**
 
