@@ -43,14 +43,17 @@
 📎 **Self-taught**
 
 - 📚 **Mobile Development (Android)**\
-📅 2023 - Now\
-📎 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
+📅 2023 - 2024\
+📍 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
 
 - 📚 **Web Development - Full-stack**\
 📅 2023 - Now\
 📎 **Self-taught**
 
 ## Experience
-🚫 It's empty, for now...
+- 📚 **Web Development (Front-end | React)**\
+📅 Jun 2024 - Aug 2024\
+📝 Intern/Trainee\
+📍 **FPT Software Academy (FSA)** - Ho Chi Minh, Vietnam
 
 </details>
