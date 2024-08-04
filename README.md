@@ -16,7 +16,7 @@
 </div><br>
 
 <div>
-    <p align='center'>💻 IDE and programming languages</p>
+    <h1 align='center'>💻 IDE and programming languages</p>
     <div align='center'>
         <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
@@ -41,7 +41,7 @@
 </div><br>
 
 <div align='center'>
-    <p align='center'>📫 How to reach me</p>
+    <h1 align='center'>📫 How to reach me</p>
     <a href='mailto:ph.nhan03@gmail.com'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
     </a>
