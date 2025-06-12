@@ -12,7 +12,7 @@
 </div><br>
 
 <div>
-    <h1>💻 IDE and programming languages</h1>
+    <h1>💻 Programming languages</h1>
     <div>
         <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
         <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
@@ -21,18 +21,11 @@
 </div><br>
 
 <div>
-    <p>🌐 Front-end libraries and frameworks</p>
+    <p>🌐 Libraries and frameworks</p>
     <div>
         <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
         <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' />
-    </div>
-</div><br>
-
-<div>
-    <p>☁️ Back-end frameworks and Database</p>
-    <div>
         <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white' />
-        <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
     </div>
 </div><br>
 
@@ -68,7 +61,7 @@
 📎 **Self-taught**
 
 ## Experience
-- 📚 **Web Development (Front-end | React)**\
+- 📚 **Front-End Developer (React)**\
 📅 Jun 2024 - Aug 2024\
 📝 Intern\
 📍 **FPT Software Academy (FSA)** - Ho Chi Minh, Vietnam
