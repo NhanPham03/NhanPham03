@@ -1,10 +1,6 @@
-<h1>
-    👋 Hi! Welcome to <a href='https://github.com/NhanPham03'>@NhanPham03</a>'s profile!
-</h1>
+<h1>👋 Hi! Welcome to <a href='https://github.com/NhanPham03'>@NhanPham03</a>'s profile!</h1>
 
-<p>
-    🔰 I aspire to become a 🌐 Full-stack Web Developer, and 🎮 Game Developer!
-</p>
+<p>🔰 I aspire to become a 🌐 Full-stack Web Developer, and 🎮 Game Developer!</p>
 
 <div>
     <p>👀 Check out my portfolio!</p>
@@ -50,29 +46,25 @@
 </div>
 
 <details>
-    <summary> 📃 Résume</summary>
+    <summary>📃 Résume</summary>
 
 ## Education
 - 📚 **Information Technology - Software Engineering**\
 📅 2021 - 2025\
 📍 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
 
-- 📚 **Game Development**\
-📅 2022 - On hold\
+- 📚 **Front-End Development - UI/UX Design**\
+📅 2022 - Now\
 📎 **Self-taught**
 
-- 📚 **Mobile Development (Android)**\
-📅 2023 - 2024\
-📍 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
-
-- 📚 **Web Development - Full-stack**\
-📅 2023 - Now\
+- 📚 **Game Development**\
+📅 2024 - On hold\
 📎 **Self-taught**
 
 ## Experience
 - 📚 **Web Development (Front-end | React)**\
 📅 Jun 2024 - Aug 2024\
-📝 Intern/Trainee\
+📝 Intern\
 📍 **FPT Software Academy (FSA)** - Ho Chi Minh, Vietnam
 
 </details>
