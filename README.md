@@ -5,8 +5,8 @@
 <div>
     <p>👀 Check out my portfolio!</p>
     <div>
-        <a href='https://nhanpham03.github.io/portfolio/'>
-            <img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white' />
+        <a href='https://lostveil.netlify.app/'>
+            <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
         </a>
     </div>
 </div><br>
