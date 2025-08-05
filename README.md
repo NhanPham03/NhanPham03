@@ -31,15 +31,21 @@
 <div>
     <h1>📫 How to reach me</h1>
     <div>
-        <a href='mailto:ph.nhan03@gmail.com'>
-            <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-        </a>
-        <a href='https://lostveil.itch.io/'>
-            <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white' />
-        </a>
-        <a href='https://www.linkedin.com/in/nhan-pham-2a5aab328/'>
-            <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-        </a>
+        <div>
+            <a href='mailto:ph.nhan03@gmail.com'>
+                <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+            </a>
+        </div>
+        <div>
+            <a href='https://lostveil.itch.io/'>
+                <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white' />
+            </a>
+        </div>
+        <div>
+            <a href='https://www.linkedin.com/in/nhan-pham-2a5aab328/'>
+                <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+            </a>
+        </div>
     </div>
 </div><br>
 
@@ -50,6 +56,10 @@
 - 📚 **Information Technology - Software Engineering**\
 📅 2021 - 2025\
 📍 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
+
+- 📚 **Full-stack Web Development**\
+📅 2022 - Now\
+📎 **Self-taught**
 
 - 📚 **Front-End Development - UI/UX Design**\
 📅 2022 - Now\
