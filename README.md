@@ -65,16 +65,16 @@
     </picture>
     <picture>
         <source
-            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai"
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true"
             medit="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=transparent"
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=transparent&hide_title=true"
             medit="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             alt="Languages"
-            src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai"
+            src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true"
         />
     </picture>
 </div>
