@@ -31,20 +31,23 @@
 <div>
     <h1>📫 How to reach me</h1>
     <div>
-        <div>
-            <a href='mailto:ph.nhan03@gmail.com'>
-                <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-            </a>
-        </div>
-        <div>
-            <a href='https://lostveil.itch.io/'>
-                <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white' />
-            </a>
-        </div>
-        <div>
-            <a href='https://www.linkedin.com/in/nhan-pham-2a5aab328/'>
-                <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
-            </a>
-        </div>
+        <a href='mailto:ph.nhan03@gmail.com'>
+            <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+        </a>
+    </div>
+    <div>
+        <a href='https://lostveil.itch.io/'>
+            <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white' />
+        </a>
+    </div>
+    <div>
+        <a href='https://www.linkedin.com/in/nhan-pham-2a5aab328/'>
+            <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+        </a>
     </div>
 </div>
+
+<details>
+    <summary>GitHub Stats</summary>
+    <img align="left" alt="NhanPham03's GitHub Stats" src="https://lostveil-stats.vercel.app/api?username=NhanPham03&show_icons=true&hide_border=true" />
+</details>
