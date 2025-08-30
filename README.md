@@ -49,5 +49,6 @@
 
 <details>
     <summary>GitHub Stats</summary>
-    <img align="left" alt="NhanPham03's GitHub Stats" src="https://lostveil-stats.vercel.app/api?username=NhanPham03&show_icons=true&hide_border=true" />
+    ![NhanPham03's GitHub Stats](https://lostveil-stats.vercel.app/api?username=NhanPham03&hide_title=true&show_icons=true&hide_border=true)
+    ![Languanges](https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai)
 </details>
