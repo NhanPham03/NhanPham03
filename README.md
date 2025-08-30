@@ -1,18 +1,18 @@
 # 👋 Hi! Welcome to [@NhanPham03](https://github.com/NhanPham03)'s profile!
 
-I'm a self-taught Full-stack Web Developer, and Game Developer!
+![Self-taught](https://img.shields.io/badge/self_taught-white)
+![Web Developer](https://img.shields.io/badge/web-developer-blue)
+![Game Developer](https://img.shields.io/badge/game-developer-green)
 
 ## About me
 - 💻 I love experimenting with Game Engines, Design Patterns, and prototyping overall.
 - 💬 Ask me anything [here](https://github.com/NhanPham03/NhanPham03/issues)!
 
-<div>
-    <img src='https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true' height='32' width='32' />
-    <img src='https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true' height='32' width='32' />
-    <img src='https://github.com/github/explore/blob/main/topics/react/react.png?raw=true' height='32' width='32' />
-</div>
+<br>
 
-<br><br>
+[![My skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,godot)](https://skillicons.dev)
+
+<br>
 
 | Stats | Languages |
 | ------------- | ------------- |
