@@ -49,6 +49,6 @@
 
 <details>
     <summary>GitHub Stats</summary>
-    ![NhanPham03's GitHub Stats](https://lostveil-stats.vercel.app/api?username=NhanPham03&hide_title=true&show_icons=true&hide_border=true)
-    ![Languanges](https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai)
+    [![NhanPham03's GitHub Stats](https://lostveil-stats.vercel.app/api?username=NhanPham03&hide_title=true&show_icons=true&hide_border=true)](https://github.com/NhanPham03/github-readme-stats)
+    [![Languanges](https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai)](https://github.com/NhanPham03/github-readme-stats)
 </details>
