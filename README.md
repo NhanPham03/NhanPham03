@@ -47,32 +47,4 @@
             </a>
         </div>
     </div>
-</div><br>
-
-<details>
-    <summary>📃 Résume</summary>
-
-## Education
-- 📚 **Information Technology - Software Engineering**\
-📅 2021 - 2025\
-📍 **HCMC University of Technology and Education** - Ho Chi Minh, Vietnam
-
-- 📚 **Full-stack Web Development**\
-📅 2022 - Now\
-📎 **Self-taught**
-
-- 📚 **Front-End Development - UI/UX Design**\
-📅 2022 - Now\
-📎 **Self-taught**
-
-- 📚 **Game Development**\
-📅 2024 - On hold\
-📎 **Self-taught**
-
-## Experience
-- 📚 **Front-End Developer (React)**\
-📅 Jun 2024 - Aug 2024\
-📝 Intern\
-📍 **FPT Software Academy (FSA)** - Ho Chi Minh, Vietnam
-
-</details>
+</div>
