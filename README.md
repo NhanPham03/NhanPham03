@@ -49,6 +49,29 @@
 
 <div>
     <h1>GitHub Stats</h1>
-    <img alt="NhanPham03's GitHub Stats" src="https://lostveil-stats.vercel.app/api?username=NhanPham03&hide_title=true&show_icons=true&hide_border=true" />
-    <img alt="Languages" src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai" />
+    <picture>
+        <source
+            srcset="https://lostveil-stats.vercel.app/api?username=NhanPham03&thene=monokai&hide_title=true&show_icons=true&hide_border=true"
+            medit="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://lostveil-stats.vercel.app/api?username=NhanPham03&thene=transparent&hide_title=true&show_icons=true&hide_border=true"
+            medit="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img
+            alt="NhanPham03's GitHub Stats" 
+            src="https://lostveil-stats.vercel.app/api?username=NhanPham03&thene=monokai&hide_title=true&show_icons=true&hide_border=true"
+        />
+    </picture>
+    <picture>
+        <source
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai"
+            medit="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=transparent"
+            medit="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img alt="Languages" src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai" />
+    </picture>
 </div>
