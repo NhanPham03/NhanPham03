@@ -48,7 +48,7 @@
 </div>
 
 <div>
-    <h1>GitHub Stats</h1>
+    <h1>📊 GitHub Stats</h1>
     <picture>
         <source
             srcset="https://lostveil-stats.vercel.app/api?username=NhanPham03&theme=monokai&hide_title=true&show_icons=true&hide_border=true"
@@ -65,16 +65,16 @@
     </picture>
     <picture>
         <source
-            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true&show_icons=true&hide_border=true"
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true&hide_border=true"
             medit="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=transparent&hide_title=true&show_icons=true&hide_border=true"
+            srcset="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=transparent&hide_title=true&hide_border=true"
             medit="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img
             alt="Languages"
-            src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true&show_icons=true&hide_border=true"
+            src="https://lostveil-stats.vercel.app/api/top-langs?username=NhanPham03&layout=compact&theme=monokai&hide_title=true&hide_border=true"
         />
     </picture>
 </div>
