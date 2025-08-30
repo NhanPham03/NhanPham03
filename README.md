@@ -5,6 +5,8 @@
 ![Game Developer](https://img.shields.io/badge/game-developer-green)
 
 ## About me
+
+- 👀 I firmly believe in "build solutions first, make profits later".
 - 💻 I love experimenting with Game Engines, Design Patterns, and prototyping overall.
 - 💬 Ask me anything [here](https://github.com/NhanPham03/NhanPham03/issues)!
 
